@@ -1,4 +1,4 @@
-# day-1-vue
+# Daniel Moulin | Triumph
 
 ## Project setup
 ```
